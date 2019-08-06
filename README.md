@@ -24,6 +24,6 @@ ProxyPass "/MyWsServer/" "ws://localhost:9001/"
 
 Save, restart Apache: systemctl restart httpd
 
-For more information and demo link see https://yourchatspace.com
+For more information and demo link see https://achatroom.co.uk/chat/
 
 
