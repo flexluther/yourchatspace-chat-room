@@ -1,4 +1,4 @@
-# yourchatspace-chat-room
+# chat-room
 Live Websocket Chat Room
 
 chat room
