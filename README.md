@@ -1,6 +1,8 @@
 # yourchatspace-chat-room
 Live Websocket Chat Room
 
+chat room
+
 Websocket chat room which supports tens of thousand of people online in a live chat environment. Realtime web chat system (client & server) based on websockets.
 
 Stickers are placed in subfolders and loaded in tabs.
@@ -24,6 +26,6 @@ ProxyPass "/MyWsServer/" "ws://localhost:9001/"
 
 Save, restart Apache: systemctl restart httpd
 
-For more information and demo link see https://achatroom.co.uk/chat/
+For more information and demo link see chat room https://achatroom.co.uk
 
 
